@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbubsiam30&label=Profile%20views&color=0e75b6&style=flat" alt="mahbubsiam30" /> </p>
 
+<p align="left"> <a href="https://twitter.com/mahbub_siam_leo" target="blank"><img src="https://img.shields.io/twitter/follow/mahbub_siam_leo?logo=twitter&style=for-the-badge" alt="mahbub_siam_leo" /></a> </p>
+
 - 🔭 I’m currently working on **fiverr**
 
-- 🌱 I’m currently learning **Full Stack Web Developer**
+- 🌱 I’m currently learning **Full Stack Web development**
 
 - 📫 How to reach me **mahhbubalamsiam284@gmail.com**
 
@@ -15,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/mahbub_siam_leo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahbub_siam_leo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahbub-siam-1551112a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahbub-siam-1551112a7" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mahbub.siam.102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahbub.siam.102" height="30" width="40" /></a>
+<a href="https://fb.com/mahbub.siam.102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahbub.siam.102" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
